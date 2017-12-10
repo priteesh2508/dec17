@@ -1,0 +1,11 @@
+@media screen and (max-height: 800px) {
+	body
+	{
+		background-image: url("cat.jpg");
+	}
+}
+@media screen and (min-height: 800px) {
+    body {
+        background-image: url("dog.jpg");
+    }
+}
